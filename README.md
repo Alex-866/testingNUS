@@ -1,2 +1,3 @@
-# testingNUS
-This is a project testing on GitHub.
+# testingNUS Number 1
+
+GitHub look difficult, trying to understand
